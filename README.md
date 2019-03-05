@@ -7,7 +7,8 @@
 Preprocessing Summary (with ABBYY Finereader): 
 
     Solved the problem in the Note 1 and 2. The digitalization process should be:
-
+    The errors mainly come from the distortion of the table. Thus, the preprocessing process is:
+    
     Before process image:
         The image must be rotate manully.
     After import:        
